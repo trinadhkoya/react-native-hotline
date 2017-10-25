@@ -8,19 +8,12 @@ Add below lines project level build.gradle.
 After addding your build.gradle looks like below
 
  buildscript {
- 
      repositories {
- 
           jcenter()
-      
       }
-    
      dependencies {
-
         classpath 'com.android.tools.build:gradle:2.2.3'
-        
         classpath 'com.github.dcendents:android-maven-gradle-plugin:1.5'
-                 
                  }
  }
 
