@@ -10,8 +10,8 @@ Add below lines project level build.gradle.
          jcenter()
      }
      dependencies {
+
          classpath 'com.android.tools.build:gradle:2.2.3'
- //        classpath 'com.google.gms:google-services:3.1.0'
          classpath 'com.github.dcendents:android-maven-gradle-plugin:1.5'
 
          // NOTE: Do not place your application dependencies here; they belong
