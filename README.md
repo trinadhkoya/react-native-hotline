@@ -59,9 +59,13 @@ Now Final Step is to add HotLine Configuration in your **MainActivity** under on
 I added these lines of code under **onCreate()**.
  
     HotlineConfig hlConfig = new HotlineConfig(Constants.HOTLINE_APP_ID, Constants.HOTLINE_APP_KEY);
+   
     hlConfig.setVoiceMessagingEnabled(false);//depends on your requirement
+   
     hlConfig.setCameraCaptureEnabled(true);//depends on your requirement
+   
     hlConfig.setPictureMessagingEnabled(true);//depends on your requirement
+   
     Hotline.getInstance(getApplicationContext()).init(hlConfig);
 
 
