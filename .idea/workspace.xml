@@ -20,22 +20,12 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="-134">
-                <caret line="14" column="4" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="102">
+                <caret line="6" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HotLineReactPackage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/HotLineReactPackage.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -52,6 +42,7 @@
         <option value="$PROJECT_DIR$/HotLineModule.java" />
         <option value="$PROJECT_DIR$/HotLineChat.java" />
         <option value="$PROJECT_DIR$/HotLineReactPackage.java" />
+        <option value="$USER_HOME$/Downloads/hotline-dark-a619f20fdc786b5f8bf75f6ddb3cdcb0.svg" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -125,12 +116,12 @@
       <option name="presentableId" value="Default" />
       <updated>1508906865527</updated>
       <workItem from="1508906866852" duration="715000" />
-      <workItem from="1508909228853" duration="1176000" />
+      <workItem from="1508909228853" duration="1307000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2242000" />
+    <option name="totallyTimeSpent" value="2373000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="714" extended-state="0" />
@@ -202,6 +193,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$USER_HOME$/Downloads/hotline-dark-a619f20fdc786b5f8bf75f6ddb3cdcb0.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -210,9 +209,9 @@
         </state>
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="-134">
-            <caret line="14" column="4" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="102">
+            <caret line="6" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
