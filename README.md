@@ -4,24 +4,25 @@ hotline.io integration with React Native App for Android
 Add below lines project level build.gradle.
 
  classpath 'com.github.dcendents:android-maven-gradle-plugin:1.5'
- After addding your build.gradle looks like below
 
+After addding your build.gradle looks like below
 
+ buildscript {
+ 
+     repositories {
+ 
+          jcenter()
+      
+      }
+    
+     dependencies {
 
-
-buildscript {
-    repositories {
-        jcenter()
-    }
-    dependencies {
         classpath 'com.android.tools.build:gradle:2.2.3'
-//        classpath 'com.google.gms:google-services:3.1.0'
+        
         classpath 'com.github.dcendents:android-maven-gradle-plugin:1.5'
-
-        // NOTE: Do not place your application dependencies here; they belong
-        // in the individual module build.gradle files
-    }
-}
+                 
+                 }
+ }
 
 Add this also under build.gradle(Project level) under allprojects{...}
 allprojects {
