@@ -3,6 +3,7 @@
 
 **hotline.io integration with React Native App for Android**
 
+**#1**
 
 Add below lines  to project level **build.gradle**
 
@@ -34,6 +35,9 @@ Top-level build file where you can add configuration options common to all sub-p
              }
          }
      }
+     
+**#2**
+
 Now **app** level **build.gradle**
 
 
@@ -44,16 +48,19 @@ add this dependency under dependencies:
         compile 'com.github.freshdesk:hotline-android:1.2.5'
     
     }
-
+    
+**#3**
 
 Add the  above java files **Constants,HotLineModule,HotLineReactPackage** to your Java source folder.
 
+**#4**
 
 After addding,include your HotLineReactPackage to MainApplication where all your packages includes
 
     ,new HotLineReactPackage()
 
 
+**#5**
 
 Now Final Step is to add HotLine Configuration in your **MainActivity** under onCreate method
 
@@ -69,6 +76,7 @@ I added these lines of code under **onCreate()**.
    
     Hotline.getInstance(getApplicationContext()).init(hlConfig);
 
+**#6**
 
 Now call  show method from your **.js**(from where you want to trigger the action) in your react-native project 
 
