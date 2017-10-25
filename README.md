@@ -6,6 +6,9 @@ Add below lines project level build.gradle.
  classpath 'com.github.dcendents:android-maven-gradle-plugin:1.5'
  After addding your build.gradle looks like below
 
+
+
+
 buildscript {
     repositories {
         jcenter()
