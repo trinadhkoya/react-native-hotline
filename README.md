@@ -3,7 +3,7 @@
 **hotline.io integration with React Native App for Android**
 
 
-Add below lines  to pro**ject level build.gradle**.After adding the build.gradle fiel ooks like below
+Add below lines  to project level **build.gradle**
 
 Top-level build file where you can add configuration options common to all sub-projects/modules.
 
