@@ -1,4 +1,4 @@
-package com.zaggle.hotline;
+package com.XXXX.hotline;
 
 import com.facebook.react.ReactPackage;
 import com.facebook.react.bridge.JavaScriptModule;
